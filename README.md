@@ -1,19 +1,19 @@
 <div align="center">
-  <h1><b>akamec</b></h1>
+  <h1><b>akameC</b></h1>
   <p><code>┌──(akamec㉿dev)-[~]</code><br><code>└─$ ./whoami</code></p>
   <p><em>AI / Deep Learning Engineer & Game Developer</em></p>
 </div>
 
 ---
 
-### 💻 `cat about_me.txt`
+### About Me
 * 🎓 Final-year Software Engineering student at Ostim Technical University.
 * 🎮 Founder of **akameC** studio. Currently crafting *The Pale Sorcerer*, a 3D top-down action roguelike with procedural generation and low-poly aesthetics.
 * 🧠 Developing clinical-grade Computer Vision pipelines, Mechanistic Interpretability engines for LLMs, and real-time deep learning systems.
 * 📱 Crafting scalable cross-platform mobile ecosystems powered by Flutter and Firebase.
 * 🎸 Passionate about electric guitar tone engineering and real-time audio DSP/amp simulation.
 
-### 🛠️ `ls -la skills/`
+### Skills
 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-### 🚀 `execute_projects.sh`
+### Projects
 
 #### 🔬 Medical AI & Computer Vision
 * 👁️ **[Glaucoma-Segmentation-MiTB3](https://github.com/akamecofficial/Glaucoma-Segmentation-MiTB3):** Clinical deep learning pipeline utilizing YOLOv8 localization, MiT-B3 (Mix Vision Transformer) U-Net segmentation, and Monte Carlo (MC) Dropout uncertainty analysis for retinal fundus imaging.
@@ -63,7 +63,7 @@
 
 ---
 
-### 📊 `htop` (Activity)
+### Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akamecofficial/akamecofficial/output/github-contribution-grid-snake-dark.svg">
@@ -74,13 +74,13 @@
 
 ---
 
-### 🎮 `./play_my_games.sh`
+### Games
 <div align="center">
   <a href="https://akame-c.itch.io/"><img src="https://img.shields.io/badge/akame._.c-D32F2F?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
   <!-- <a href="BURAYA_STEAM_LINKIN_GELECEK"><img src="https://img.shields.io/badge/The_Pale_Sorcerer_Steam-D32F2F?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a> -->
 </div>
 
-### 📬 `./contact.sh`
+### Contact
 <div align="center">
   <a href="mailto:info@akamec.com"><img src="https://img.shields.io/badge/info@akamec.com-D32F2F?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/></a>
 </div>
