@@ -76,11 +76,11 @@
 
 ### 🎮 `./play_my_games.sh`
 <div align="center">
-  <a href="https://akame-c.itch.io/"><img src="https://img.shields.io/badge/akame._.c-FFFFFF?style=for-the-badge&logo=itchdotio&logoColor=black" alt="Itch.io"/></a>
-  <!-- <a href="BURAYA_STEAM_LINKIN_GELECEK"><img src="https://img.shields.io/badge/The_Pale_Sorcerer_Steam-FFFFFF?style=for-the-badge&logo=steam&logoColor=black" alt="Steam"/></a> -->
+  <a href="https://akame-c.itch.io/"><img src="https://img.shields.io/badge/akame._.c-D32F2F?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
+  <!-- <a href="BURAYA_STEAM_LINKIN_GELECEK"><img src="https://img.shields.io/badge/The_Pale_Sorcerer_Steam-D32F2F?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a> -->
 </div>
 
 ### 📬 `./contact.sh`
 <div align="center">
-  <a href="mailto:info@akamec.com"><img src="https://img.shields.io/badge/info@akamec.com-FFFFFF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email"/></a>
+  <a href="mailto:info@akamec.com"><img src="https://img.shields.io/badge/info@akamec.com-D32F2F?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/></a>
 </div>
