@@ -8,7 +8,7 @@
 
 ### About Me
 * 🎓 Final-year Software Engineering student at Ostim Technical University.
-* 🎮 Founder of **akameC** studio. Currently crafting *The Pale Sorcerer*, a 3D top-down action roguelike with procedural generation and low-poly aesthetics.
+* 🎮 Founder of **akameC** studio. Currently crafting *[The Pale Sorcerer](https://store.steampowered.com/app/5322470/The_Pale_Sorcerer/)*, a 3D top-down action roguelike with procedural generation and low-poly aesthetics.
 * 🧠 Developing clinical-grade Computer Vision pipelines, Mechanistic Interpretability engines for LLMs, and real-time deep learning systems.
 * 📱 Crafting scalable cross-platform mobile ecosystems powered by Flutter and Firebase.
 * 🎸 Passionate about electric guitar tone engineering and real-time audio DSP/amp simulation.
@@ -58,7 +58,7 @@
 * 📰 **Bitcoin News Analyzer & CoinSentiment:** Multithreaded sentiment analysis pipelines tracking real-time crypto sentiment across news feeds and social endpoints using NLTK/VADER and interactive visualizers.
 
 #### 🎮 Interactive Systems & Mobile
-* ⚔️ **The Pale Sorcerer:** Custom 3D action roguelike featuring procedural dungeon generation, modular elemental spell systems, and custom audio engineering. *(Coming soon to Steam)*
+* ⚔️ **[The Pale Sorcerer](https://store.steampowered.com/app/5322470/The_Pale_Sorcerer/):** Custom 3D action roguelike featuring procedural dungeon generation, modular elemental spell systems, and custom audio engineering. *(Coming soon to Steam)*
 * 🎵 **BeatNeko:** High-performance music streaming ecosystem built on Flutter and Firebase with custom batch audio caching and on-device vector recommendations.
 
 ---
@@ -77,7 +77,7 @@
 ### Games
 <div align="center">
   <a href="https://akame-c.itch.io/"><img src="https://img.shields.io/badge/akame._.c-D32F2F?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
-  <!-- <a href="BURAYA_STEAM_LINKIN_GELECEK"><img src="https://img.shields.io/badge/The_Pale_Sorcerer_Steam-D32F2F?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a> -->
+  <a href="https://store.steampowered.com/app/5322470/The_Pale_Sorcerer/"><img src="https://img.shields.io/badge/The_Pale_Sorcerer-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
 </div>
 
 ### Contact
