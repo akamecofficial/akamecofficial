@@ -76,7 +76,7 @@
 
 ### Games
 <div align="center">
-  <a href="[https://akame-c.itch.io/](https://akame-c.itch.io/the-pale-sorcerer/devlog/1685037/official-gameplay-trailer-steam-page-is-live)"><img src="https://img.shields.io/badge/akame._.c-D32F2F?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
+  <a href="https://akame-c.itch.io/the-pale-sorcerer"><img src="https://img.shields.io/badge/akame._.c-D32F2F?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
   <a href="https://store.steampowered.com/app/5322470/The_Pale_Sorcerer/"><img src="https://img.shields.io/badge/The_Pale_Sorcerer-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
 </div>
 
